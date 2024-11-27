@@ -22,7 +22,7 @@ export default function Page() {
           className="w-[400px] px-4 py-1"
         />
         <p>
-          {validity ? (
+          {address.length > 0 && validity ? (
             <p className="text-green-900">Valid</p>
           ) : (
             <p className=" text-red-900">Invalid</p>
