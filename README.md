@@ -4,7 +4,7 @@ This is a app for test task
 
 ## Demo
 
-Check out the live demo at: [testapp.vercel.app](https://testapp.vercel.app)
+Check out the live demo at: [testapp.vercel.app](https://testapp-ashen-mu.vercel.app/)
 
 ## Features
 
